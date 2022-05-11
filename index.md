@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/lee-sk/lee.sk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Komplexné IT riešenia pre malé a stredné podniky.
+![LEE SK IT riesenia](/images/LEE%20SK%20IT%20riesenia.png)
+Spoločnosť LEE.SK s.r.o. vznikla v roku 2008 spojením síl viacero živnostníkov za účelom poskytnutia komplexnejších IT riešení pre malé a stredné firmy. Počas tejto doby sme realizovali viacero komerčných, ale aj charitatívnych projekov. Pre dosiahnutie tých najlepších výsledkov spolupracujeme s mnohými IT konzultantmi a designérmi na Slovenskom, ale aj svetovom trhu.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dlhoročné skúsenosti v návrhu, správe a tvorbe IT riešení z nás robia spoľahlivú oporu pre našich klientov. Našim cieľom je poskytovať kvalitu za primerané ceny rešpektujúc skutočné potreby našich zákazníkov.
 
-### Markdown
+Medzi naše hlavné aktivity patrí: tvorba aplikácií na mieru, tvorba webstránok, reklama na internete a presun dát do cloudu.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Informatizácia malých a stredných firiem
+![Informatizácia](/images/icon-server.png)
+Správa firemnej infraštruktúry
+Presun firemnej infraštruktúry do coludu 
+Konzultačné služby
+Konzultačné služby pri nákupe hardware sotware a výbere vhodnej technológie 
+Technická podpora pre účtovný a rozpočtových software
+Tvorba internetových aj intranetových aplikácií na mieru
 
-```markdown
-Syntax highlighted code block
+## Webdesign - Tvorba webových stránok
+![Webdesign](/images/icon-bookmarks.png)
+Konzultačné služby
+Registrácia a nastavenie vašej domény
+Návh príjemneho a prehľadného vzhľadu s dlhoročnými skúsenosťami 
+Výber vhodnej technológie na realizáciu projektu
+Vytvorenie kvalitnej stránky v redakčnom systéme podľa potreby klienta 
+Optimalizácia stránky pre PDA a mobil
+Project management
 
-# Header 1
-## Header 2
-### Header 3
+## Webmarketing - Aby Vás bolo vidieť
+![Webmarketing](/images/icon-search.png)
+Reklma na internete
+Spolupráca pri návrhu optimálnej štruktúry a textov pre stránku 
+SEO - optimalizácia pre vyhľadávače na základne kľúčových slov 
+Optimalizácia platenej reklamy na Google a Facebooku
+Registrácia do internetových katalógov
+Písanie PR článkov a správa profilov na sociálnych sieťach
 
-- Bulleted
-- List
+## Bezpečnosť Vašej firemnej infraštruktúry
+![Webdesign](/images/icon-security.png)
+Bezpečnosť dát vo firme
+Konzultácie ohľadne bezpečnosti Vašej firemnej infraštruktúry
+Legislatívne normy ohľadne spracovania a skladovania osobných údajov a citlivých firemných dát
+Kontrola bezpečnosti Vašej firemnej infraštruktúry a realizácia korektívnych krokov
+Zálohovanie dát vo Vašej firme
+Obnova poškodených a zmazaných dát
+Monitoring firemnej infraštruktúry
 
-1. Numbered
-2. List
+## Tvorba windows aplikácií na mieru
+![Webdesign](/images/c-sharp.png)
+Programovanie C# .Net
+Automatizácia procesov aplikáciami šitými na mieru
+Skriptovanie v PowerShell, VBscript, JavaScript, Python
+Google apps scripting - programovanie modulov priamo do google účtu
 
-**Bold** and _Italic_ and `Code` text
+## Kontakt
+![Webdesign](/images/customLogo.gif)
+LEE.SK s.r.o.
+Pažítková 1202
+Most pri Bratislave, 90046
 
-[Link](url) and ![Image](src)
-```
+IČO: 44205902
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![Webdesign](/images/phone.png) +421 903 040 666
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lee-sk/lee.sk/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+IBAN: SK30 1100 0000 0026 2683 5236
