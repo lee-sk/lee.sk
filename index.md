@@ -1,6 +1,6 @@
 
 # Komplexné IT riešenia pre malé a stredné podniky.
-![LEE SK IT riesenia](/images/LEE%20SK%20IT%20riesenia.png)
+![LEE SK IT riesenia](/images/LEElogo.png)
 Spoločnosť LEE.SK s.r.o. vznikla v roku 2008 spojením síl viacero živnostníkov za účelom poskytnutia komplexnejších IT riešení pre malé a stredné firmy. Počas tejto doby sme realizovali viacero komerčných, ale aj charitatívnych projekov. Pre dosiahnutie tých najlepších výsledkov spolupracujeme s mnohými IT konzultantmi a designérmi na Slovenskom, ale aj svetovom trhu.
 
 Dlhoročné skúsenosti v návrhu, správe a tvorbe IT riešení z nás robia spoľahlivú oporu pre našich klientov. Našim cieľom je poskytovať kvalitu za primerané ceny rešpektujúc skutočné potreby našich zákazníkov.
